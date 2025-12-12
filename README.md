@@ -1,4 +1,4 @@
-revisão de Taxa de Cliques (CTR Prediction) com Regressão Logística
+Revisão de Taxa de Cliques (CTR Prediction) com Regressão Logística
 Este repositório contém o projeto de Machine Learning desenvolvido para prever o engajamento do usuário com publicidade digital. O objetivo é determinar, com alta precisão, se um usuário específico irá clicar em um anúncio com base em seu perfil e hábitos de navegação.
 
 🎯 Objetivo do Projeto
